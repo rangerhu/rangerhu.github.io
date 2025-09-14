@@ -1,4 +1,5 @@
 @echo off
+chcp 65001 >nul
 :: ===== push_auto.bat =====
 :: 一键 add -> 带时间戳 commit -> push（无需输入）
 

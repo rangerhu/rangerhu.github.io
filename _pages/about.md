@@ -23,7 +23,7 @@ His research interests span blockchain network security, smart contract vulnerab
 He aspires to collaborate with innovative researchers on diverse research areas, aiming to advance secure blockchain networks and foster a trustworthy Web3 ecosystem.
 
 # 📖 Educations
-- *Aug. 2021- Jun. 2026 (expected)* : Ph.D. candidate at the school of cyber science and engineering, Xi’an Jiaotong University, Xi’an, China.
+- *Aug. 2021- Jun. 2026* : Ph.D. candidate at the school of cyber science and engineering, Xi’an Jiaotong University, Xi’an, China.
 - *Jul. 2019 – Sep. 2019* : Visiting student, school of computing, National University of Singapore, Singapore.
 - *Sep. 2017 - Jun. 2021* : B.Eng. in cyber science and engineering, Sichuan University, Chengdu, Sichuan, China. 
 
@@ -42,6 +42,16 @@ He aspires to collaborate with innovative researchers on diverse research areas,
 
 <!-- </div>
 </div> -->
+
+
+- [BlockAthena: A Scalable Approach for Long-Term Blockchain Crimes Analysis]()
+\\
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/ToN-2025-blue?style=flat-square&logo=ieee&logoColor=white)
+
+  - **Qinnan Hu**, Yuntao Wang, Zhou Su, Shaolong Guo, Yuan Gao, Nan Liu, Tom H. Luan
+  - IEEE Transactions on Information Forensics & Security (TIFS).
+  - Top-tier journal (CCF-A) in information security
+
 
 - [Rethinking Online Smart Contract Diagnosis in Blockchains: A Diffusion Perspective](https://ieeexplore.ieee.org/document/11151785)
 \\

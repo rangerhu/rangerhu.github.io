@@ -19,7 +19,7 @@ redirect_from:
 
 Qinnan Hu (胡钦南 in Chinese) is a Ph.D candidate at the School of Cyber Science and Engineering, Xi’an Jiaotong University, supervised by [Prof. Zhou Su](https://ieeexplore.ieee.org/author/37085423294).
 Piror to Ph.D study, he obtained his bachelor degree from Sichuan University.
-His research interests span blockchain network security, smart contract vulnerability detection, and Web3 crime forensics.
+His research interests span blockchain network security, smart contract vulnerability detection, Web3 crime forensics, and trustworthy LLM agents.
 He aspires to collaborate with innovative researchers on diverse research areas, aiming to advance secure blockchain networks and foster a trustworthy Web3 ecosystem.
 
 # 📖 Educations

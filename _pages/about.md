@@ -46,7 +46,7 @@ He aspires to collaborate with innovative researchers on diverse research areas,
 
 - [BlockAthena: A Scalable Approach for Long-Term Blockchain Crimes Analysis]()
 \\
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/ToN-2025-blue?style=flat-square&logo=ieee&logoColor=white)
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/TIFS-2026-blue?style=flat-square&logo=ieee&logoColor=white)
 
   - **Qinnan Hu**, Yuntao Wang, Zhou Su, Shaolong Guo, Yuan Gao, Nan Liu, Tom H. Luan
   - IEEE Transactions on Information Forensics & Security (TIFS).

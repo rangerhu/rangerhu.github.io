@@ -23,7 +23,7 @@ His research interests span blockchain network security, smart contract vulnerab
 He aspires to collaborate with innovative researchers on diverse research areas, aiming to advance secure blockchain networks and foster a trustworthy Web3 ecosystem.
 
 # 📖 Educations
-- *Aug. 2021- Jun. 2026* : Ph.D. candidate at the school of cyber science and engineering, Xi’an Jiaotong University, Xi’an, China.
+- *Aug. 2021-* : Ph.D. candidate at the school of cyber science and engineering, Xi’an Jiaotong University, Xi’an, China.
 - *Jul. 2019 – Sep. 2019* : Visiting student, school of computing, National University of Singapore, Singapore.
 - *Sep. 2017 - Jun. 2021* : B.Eng. in cyber science and engineering, Sichuan University, Chengdu, Sichuan, China. 
 

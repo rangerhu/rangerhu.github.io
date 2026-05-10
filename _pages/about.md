@@ -44,7 +44,7 @@ He aspires to collaborate with innovative researchers on diverse research areas,
 </div> -->
 
 
-- [BlockAthena: A Scalable Approach for Long-Term Blockchain Crimes Analysis]()
+- [BlockAthena: A Scalable Approach for Long-Term Blockchain Crimes Analysis](https://ieeexplore.ieee.org/document/11500489)
 \\
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/TIFS-2026-blue?style=flat-square&logo=ieee&logoColor=white)
 
